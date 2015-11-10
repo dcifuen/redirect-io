@@ -1,0 +1,5 @@
+cron:
+
+- description: Daily exception report
+  url: /_ereporter?sender=noreply@redirect-io.appspotmail.com&to=dcifuen@gmail.com
+  schedule: every day 00:00
